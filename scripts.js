@@ -94,8 +94,11 @@ $('#buttonRight').click(() => {
 })
 
 $("#divThumbFrame").on('click', '.divThumb', function() {
+    console.log(actId);
     unmarkThumb();
     var str = this.id;
+    console.log(str);
     actId = parseInt(str.substring(3, 4));
+    console.log(actId);
     displayImage();
 });
