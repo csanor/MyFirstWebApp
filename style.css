@@ -4,7 +4,14 @@
     align-items: center;
     justify-content: space-between;
     width: 1000px;
+    /*
+    background: url('./images/White-Wallpaper-For-Pc.jpg');
     background: url('./images/White-Wallpaper-Background.jpg');
+    background: url('./images/Brushed Aluminum Wallpapers.png');
+    background: url('./images/White-Lace-Wallpaper-Border.jpg');
+    background: url('./images/wallpapertip_white-wallpaper-full-hd_1115846.png');
+    */
+    background: url('./images/White-Wallpaper-For-Pc.jpg');
     background-size: cover;
     margin: auto;
     margin-top: 70px;
